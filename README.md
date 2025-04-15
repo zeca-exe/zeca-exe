@@ -1,14 +1,14 @@
-# Hey! I'm Zeca 👋 🇧🇷
+# 𝐻𝑒𝑦! 𝐼'𝑚 𝑍𝑒𝑐𝑎 👋 🇧🇷
 After a journey in the audiovisual world, I'm now diving into the world of tech!
 I'm currently studying Data Science and Business Intelligence at FIAP.
 
-Learning cool stuff like:
-🐍 Python
-🧠 Machine Learning
-🗃️ SQL
-🐘 Hadoop
+𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑐𝑜𝑜𝑙 𝑠𝑡𝑢𝑓𝑓 𝑙𝑖𝑘𝑒:
+🐍 𝐏𝐲𝐭𝐡𝐨𝐧
+🧠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+🗃️ 𝐒𝐐𝐋
+🐘 𝐇𝐚𝐝𝐨𝐨𝐩
 
-Excited to build, break, and learn along the way!
+Exᴄɪᴛᴇᴅ ᴛᴏ ʙᴜɪʟᴅ, ʙʀᴇᴀᴋ, ᴀɴᴅ ʟᴇᴀʀɴ ᴀʟᴏɴɢ ᴛʜᴇ ᴡᴀʏ!
 
 
 ## 🌐 Socials:
